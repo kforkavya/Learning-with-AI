@@ -12,7 +12,7 @@ Embark on a strategic journey with our Tic-Tac-Toe AI, a masterpiece driven by t
 
 ### Running the AI
 
-The actual program is written in **JavaScript**. But it has been provided...
+The actual program is written in **JavaScript**. But it has been provided with an interactive interface also. Run the ```index.html``` file on a browser to see the magic !!
 
 ---
 
