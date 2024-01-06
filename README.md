@@ -1,5 +1,7 @@
 # Learning-with-AI
 
+Hi ! I am Kavya Gupta (22B1053), a CSE sophomore at IIT Bombay. These are the 3 AI projects I did in my Winter break 2023.
+
 # AI Projects Showcase
 
 ## 1. Tactical Brilliance: Tic-Tac-Toe AI with Minimax Algorithm
